@@ -246,4 +246,6 @@ for det in data["detections"]:
 
 ## 📝 许可
 
-MIT
+Apache 2.0
+
+## bilibili:@卧石老莫言
