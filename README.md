@@ -62,8 +62,6 @@ face-emotion-app/
 | 内存 | ≥ 8 GB |
 | 系统 | Windows / macOS / Linux |
 
-不需要 NVIDIA GPU、不需要 CUDA、不需要 PyTorch。
-
 ### 2. 一键启动
 
 ```bash
