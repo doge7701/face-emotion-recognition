@@ -1,6 +1,6 @@
 # Face Emotion App
 
-> **本地人脸情绪识别** · YOLOv8-face 检测 + ViT 7 类情绪分类 · **纯 ONNX Runtime,无需 PyTorch** · 暗色玻璃拟态 UI · 完整本地 API
+> **本地人脸情绪识别** · YOLOv8-face 检测 + ViT 7 类情绪分类 · 暗色玻璃拟态 UI · 完整本地 API
 
 ![python](https://img.shields.io/badge/python-3.10--3.13-blue)
 ![onnx](https://img.shields.io/badge/onnxruntime-1.18+-success)
